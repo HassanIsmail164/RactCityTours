@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './index.scss'; //Syntactically Awesome Style Sheets) is a pre-processor
+// scripting language that will be compiled or interpreted into CSS.
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
